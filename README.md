@@ -41,11 +41,11 @@
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="https://mynewapp-peach.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=for-the-badge&logo=Google-chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/kaushal-kishor-16ba9b1bb/"><img src="https://img.shields.io/badge/-Suraj%20Kumar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<!-- <a href="https://mynewapp-peach.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=for-the-badge&logo=Google-chrome&logoColor=white"/></a> -->
+<a href="https://www.linkedin.com/in/kaushal-kishor-16ba9b1bb/"><img src="https://img.shields.io/badge/-Kaushal%20Kihor-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <!-- <a href="mailto:surajkumar71799@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a> -->
 <!-- <a href="https://youtube.com/@MenOfEngineering"><img src="https://img.shields.io/badge/-MOE-E4405F?style=for-the-badge&logo=Youtube&logoColor=white"/></a> -->
-<a href="https://x.com/surajsinha"><img src="https://img.shields.io/badge/-Suraj-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
+<!-- <a href="https://x.com/surajsinha"><img src="https://img.shields.io/badge/-Suraj-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a> -->
 </p>
 
 ---
