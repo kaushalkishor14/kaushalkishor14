@@ -42,11 +42,10 @@
 
 <p align="center">
 <a href="https://mynewapp-peach.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=for-the-badge&logo=Google-chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/kumar-suraj-sk/"><img src="https://img.shields.io/badge/-Suraj%20Kumar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:surajkumar71799@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://youtube.com/@MenOfEngineering"><img src="https://img.shields.io/badge/-MOE-E4405F?style=for-the-badge&logo=Youtube&logoColor=white"/></a>
-<a href="https://leetcode.com/surajsinhar7"><img src="https://img.shields.io/badge/-surajsinhar7-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://x.com/surajsinha77"><img src="https://img.shields.io/badge/-Suraj-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kaushal-kishor-16ba9b1bb/"><img src="https://img.shields.io/badge/-Suraj%20Kumar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<!-- <a href="mailto:surajkumar71799@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a> -->
+<!-- <a href="https://youtube.com/@MenOfEngineering"><img src="https://img.shields.io/badge/-MOE-E4405F?style=for-the-badge&logo=Youtube&logoColor=white"/></a> -->
+<a href="https://x.com/surajsinha"><img src="https://img.shields.io/badge/-Suraj-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
 ---
@@ -93,13 +92,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Surajsinhar77&layout=compact&hide=TSQL&theme=chartreuse-dark" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=kaushalkishor14&layout=compact&hide=TSQL&theme=chartreuse-dark" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Surajsinhar77&layout=compact&hide=TSQL&theme=chartreuse-dark"/> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushalkishor14&layout=compact&hide=TSQL&theme=chartreuse-dark"/> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Surajsinhar77&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kaushalkishor14&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -108,13 +107,13 @@
 <div align="center">
     
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=surajsinhar77&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=kaushalkishor14&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-[![](https://visitcount.itsvg.in/api?id=surajsinhar77&icon=3&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kaushalkishor14&icon=3&color=0)](https://visitcount.itsvg.in)
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
